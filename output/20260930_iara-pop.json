@@ -1,0 +1,26 @@
+{
+  "topic_id": "iara-pop",
+  "title": "Iara — não só uma sereia: origem guerreira e canto do rio #Shorts",
+  "narrative_structure": "GANCHO -> HISTORIA -> SURPRESA -> FINAL -> CTA",
+  "hook": "Você sabia que Iara não é apenas uma sereia brasileira?",
+  "story": [
+    "A lenda nasce entre várias tribos indígenas e se mistura aos mitos dos rios.",
+    "Ela vive nas margens, protege as águas e encanta viajantes com um canto irresistível."
+  ],
+  "surprise": "Originalmente Iara era uma guerreira que mergulhou para proteger o rio e sua gente.",
+  "final": "Hoje seu canto guarda saudade, poder e um aviso claro para quem se aproxima.",
+  "cta": "Siga para mais curiosidades",
+  "description": "Você sabia que Iara não é apenas uma sereia brasileira?\n\nShort sobre a origem indígena de Iara e a curiosidade do seu canto protetor.\n\nMitologia contada em 30 segundos. MITOS EM 30 SEGUNDOS.\n\n#Shorts #Iara #mitologiabrasileira #sereia #mitologiaindígena #curiosidades",
+  "tags": [
+    "Iara",
+    "mitologia brasileira",
+    "sereia",
+    "mitologia indígena",
+    "curiosidades"
+  ],
+  "video": "/home/ubuntu/mythos-shorts/output/20260930_iara-pop.mp4",
+  "duration": 28.5,
+  "music": "procedural:epico-limpo-sem-drone",
+  "voice_rate": "+0%",
+  "generated_at": "2026-09-30T19:38:37+00:00"
+}

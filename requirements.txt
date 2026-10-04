@@ -1,0 +1,15 @@
+# Dependencias do canal Mythos Sombrio
+# Instalar:  sudo pip3 install -r requirements.txt
+
+openai>=1.40              # roteiro (proxy de LLM do Manus, via variaveis de ambiente)
+edge-tts>=7.0             # narracao neural gratuita + timestamps por palavra
+requests>=2.31            # busca de imagens no Wikimedia Commons
+numpy>=1.24               # compositor procedural de trilha sonora
+Pillow>=10.0              # utilitarios de imagem
+
+# --- somente para publicar no YouTube ---
+google-api-python-client>=2.120
+google-auth-oauthlib>=1.2
+google-auth-httplib2>=0.2
+
+# FFmpeg (render) ja vem instalado no sandbox/Ubuntu: ffmpeg + ffprobe
